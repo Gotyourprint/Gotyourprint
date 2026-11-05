@@ -4,7 +4,7 @@
 const CONFIG = {
   // URL webové aplikace z Google Apps Script (viz NAVOD.md).
   // Prázdné = ukázkový režim (objednávky jen v prohlížeči).
-  scriptUrl: "https://script.google.com/macros/s/AKfycbyyEQc8kynVf77i26dRyVyfAhj4YYANCjjimMEcUtnDglEE5kmUg0NcOtG-PUAKaCQ1/exec",
+    scriptUrl: "https://script.google.com/macros/s/AKfycbwVl5m-WbnzzemeXL1FN1U7Z1CR6L5rnAL9bgGBInc7-tRR6-zq3pjg8pQdLTzKF8uCRQ/exec",
   demoPassword: "tricka",       // heslo do správy jen pro ukázkový režim
   demoAccount: "123456789/0100", // smyšlený účet jen pro ukázkový režim (skutečný účet se nastavuje ve skriptu Google)
 
